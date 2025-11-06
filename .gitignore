@@ -1,0 +1,28 @@
+# Backend
+backend/desafio-fullstack-veritas
+backend/*.exe
+backend/*.log
+backend/tasks.json
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Go
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
